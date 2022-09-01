@@ -11,8 +11,8 @@ Jupyter Notebooks
 - [exercise_2.ipynb](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_2.ipynb) - Code for Exercise 2
 
 Output Files
-- [people.csv]() - Output CSV from Exercise 1
-- [acquisition_facts.csv]() - Output CSV from Exercise 2
+- [people.csv](https://raw.githubusercontent.com/dugad059/missionwired-data-engineering-project/master/people.csv) - Output CSV from Exercise 1
+- [acquisition_facts.csv](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/acquisition_facts.csv) - Output CSV from Exercise 2
 
 ## How to run locally
 The repository can be cloned in order to run the file and notebooks on your local machine.
