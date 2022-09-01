@@ -1,5 +1,5 @@
-# MissionWired Data Engineer Exercise
-This repository contains my code and CSV output files for MissionWired's data engineering hiring exercise. For ease of use, I have formatted my code in both a Python file and a Jupyter Notebook! The Python file is intended for those who want to generate the people.csv and acquisition_facts.csv quickly. Jupyter Notebooks are intended to understand my thought process on how I created the csv files. They also have comprehensive notes and comments on what/why things are being done at each step. I provide examples of how the data looks at each stage of transformation.
+# MissionWired Data Engineering Project
+This repository contains my code and CSV output files for MissionWired's data engineering hiring project. For ease of use, I have formatted my code in both a Python file and a Jupyter Notebook! The Python file is intended for those who want to generate the people.csv and acquisition_facts.csv quickly. Jupyter Notebooks are intended to understand my thought process on how I created the csv files. They also have comprehensive notes and comments on what/why things are being done at each step. I provide examples of how the data looks at each stage of transformation.
 
 ## The Repository is structured as follows:
 
