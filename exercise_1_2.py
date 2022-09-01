@@ -43,7 +43,7 @@ merge_2.columns=['email', 'code', 'is_unsub', 'created_dt', 'updated_dt']
 print('Merging / Transforming data exercise 1... COMPLETE')
 
 # Converting to csv
-merge_2.to_csv('people.csv')
+merge_2.to_csv('people.csv', index=False)
 print('people.csv SAVED')
 
 # --------------------------------------------------------------
