@@ -4,11 +4,11 @@ This repository contains my code and csv output files for MissionWired's data en
 ## The Repository is structured as follows:
 
 Python File
-- [exercise_1_2.py]() - Code for Exercise 1 & 2
+- [exercise_1_2.py](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_1_2.py) - Code for Exercise 1 & 2
 
 Jupyter Notebooks
-- [exercise_1.ipynb]() - Code for Exercise 1
-- [exercise_2.ipynb]() - Code for Exercise 2
+- [exercise_1.ipynb](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_1.ipynb) - Code for Exercise 1
+- [exercise_2.ipynb](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_2.ipynb) - Code for Exercise 2
 
 Output Files
 - [people.csv]() - Output CSV from Exercise 1
@@ -16,12 +16,15 @@ Output Files
 
 ## How to run locally
 The repository can be cloned in order to run the file and notebooks on your local machine.
-#### Dependencies
+
+Dependencies
 - [Jupyter](https://jupyter.org/install)
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html) 
-#### Running Python File
+
+Running Python File
 - In you command line, run 'python exercise_1_2.py'
-#### Running Jupyter Notebook
-- Open [exercise_1.ipynb]() and run blocks in order.
-- Once the people.cvs file is save from [exercise_1.ipynb](), Open [exercise_2.ipynb]() and run blocks in order! 
+
+Running Jupyter Notebook
+- Open [exercise_1.ipynb](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_1.ipynb) and run blocks in order.
+- Once the people.cvs file is save from [exercise_1.ipynb](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_1.ipynb), Open [exercise_2.ipynb](https://github.com/dugad059/missionwired-data-engineering-project/blob/master/exercise_2.ipynb) and run blocks in order! 
 
