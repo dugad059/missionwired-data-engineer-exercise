@@ -46,7 +46,7 @@ print('Merging / Transforming data exercise 1... COMPLETE')
 merge_2.to_csv('people.csv', index=False)
 print('people.csv SAVED')
 
-# --------------------------------------------------------------
+# ---------------------------------------------------------------
 
 # EXERCISE 2
 
